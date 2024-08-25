@@ -1,4 +1,4 @@
-Flask==2.2.5
-Flask-CORS==3.1.0
-cloudinary==1.30.0
-
+Flask==3.0.3
+Flask-Cors==4.0.1
+cloudinary==1.41.0
+gradio_client==1.2.0
